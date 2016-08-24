@@ -1,0 +1,23 @@
+{
+  "name": "handlebarsbasic",
+  "version": "1.0.0",
+  "description": "As per tutorial on https://www.youtube.com/watch?v=m5ribwPpIPw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjoe19/handlebarsbasic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjoe19/handlebarsbasic/issues"
+  },
+  "homepage": "https://github.com/rjoe19/handlebarsbasic#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0"
+  }
+}
